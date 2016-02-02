@@ -4,15 +4,14 @@
 var frogArray = [
     'rainbowfrog',
     'rainbowfrog2',
-    'rainbowfrog3',
     'rainbowfrogflip',
     'rainbowfroglsd',
     'rainbowfrogmellow',
-    'rainbowfrogweyes',
-    'reverserainbowfrog',
-    'turbofrog',
-    'turboflipfrog',
-    'upsidedownrainbowfrog'
+    'rainbowfrogreverse',
+    'rainbowfrogaussie',
+    'rainbowfrogshuffle',
+    'rainbowfrogshufflereverse',
+    'rainbowfrogturbo'
 ];
 
 function fibonacciFrog() {
@@ -89,4 +88,3 @@ function pbcopy(data) {
 }
 
 fibonacciFrog();
-
