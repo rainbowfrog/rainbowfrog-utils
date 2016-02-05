@@ -11,6 +11,8 @@ var frogArray = [
     'rainbowfrogaussie',
     'rainbowfrogshuffle',
     'rainbowfrogshufflereverse',
+    'rainbowfrogshuffleaussie',
+    'rainbowfrogshuffleaussiereverse',
     'rainbowfrogturbo'
 ];
 
